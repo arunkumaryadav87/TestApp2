@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="square_color" format="color"/>
+        <attr name="square_size" format="dimension"/>
+        <attr name="top_left_x_axis" format="integer"/>
+        <attr name="top_left_y_axis" format="integer"/>
+        <attr name="bottom_right_x_axis" format="integer"/>
+        <attr name="bottom_right_y_axis" format="integer"/>
+    </declare-styleable>
+</resources>
